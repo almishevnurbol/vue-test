@@ -1,5 +1,5 @@
 <template>
-    <v-container>
+    <v-container class="ms-container">
         <v-row v-if="!pendingStatus" class="packagesList">
             <v-col 
                 md="4" 
